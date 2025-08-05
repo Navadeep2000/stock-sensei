@@ -1,27 +1,5 @@
 # stock-sensei
 
-stock-sensei/
-├── data/
-│   ├── raw/                # Unprocessed data (CSV/JSON)
-│   └── processed/          # Cleaned datasets ready for ML
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_model_training.ipynb
-│   └── 03_sentiment_analysis.ipynb
-├── src/
-│   ├── data_loader.py
-│   ├── feature_engineering.py
-│   ├── train_model.py
-│   └── sentiment_analyzer.py
-├── dashboard/
-│   ├── app.py              # Streamlit or Dash code
-│   └── components/         # Charts, UI elements
-├── genai_module/
-│   └── ai_qna.py           # GenAI-based natural language Q&A
-├── requirements.txt
-├── README.md
-└── .env                    # For API keys
-
 
 # 📊 Stock Sensei: AI-Powered Stock Market Analyzer
 
